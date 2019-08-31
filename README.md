@@ -43,9 +43,9 @@
 </ul>
 
 <h3>Installation:</h3>
-    <li>install all modules listed as dependencies in package.json (npm i)</li>
+    <li><p>install all modules listed as dependencies in package.json (npm i)</p></li>
     <li>
-        Admin Credential:
+        <p>Admin Credential:</p>
         <ul>
             <p>- Username: mohamed7el17@gmail.com</p>         
             <p>- Password: 123</p>         
