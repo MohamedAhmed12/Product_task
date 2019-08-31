@@ -42,12 +42,12 @@
     </li>
 </ul>
 
-<h4>Installation:</h4>
+<h3>Installation:</h3>
     <li>install all modules listed as dependencies in package.json (npm i)</li>
     <li>
         Admin Credential:
         <ul>
-            <li type="i">Username: mohamed7el17@gmail.com</li>
-            <li type="i">Password: 123</li>
+            - Username: mohamed7el17@gmail.com
+            - Password: 123
         </ul>
     </li>
