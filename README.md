@@ -41,3 +41,13 @@
         <p>View perfome all CRUD operations on categories only by admin </p>
     </li>
 </ul>
+
+<h4>Installation:</h4>
+    <li>install all modules listed as dependencies in package.json (npm i)</li>
+    <li>
+        Admin Credential:
+        <ul>
+            <li>Username: mohamed7el17@gmail.com</li>
+            <li>Password: 123</li>
+        </ul>
+    </li>
