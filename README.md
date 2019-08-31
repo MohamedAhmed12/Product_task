@@ -47,7 +47,7 @@
     <li>
         Admin Credential:
         <ul>
-            - Username: mohamed7el17@gmail.com
-            - Password: 123
+            <p>- Username: mohamed7el17@gmail.com</p>         
+            <p>- Password: 123</p>         
         </ul>
     </li>
