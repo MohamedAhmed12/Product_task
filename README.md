@@ -34,10 +34,10 @@
     </li>
 </ul>
 
-<h4>categories pages(only accessabe by admin )</h4>
+<h4>categories pages</h4>
 <ul>
     <li>
-        <h5>Main categories page<h5>
+        <h5>Main categories page ( only accessabe by admin )<h5>
         <p>View perfome all CRUD operations on categories only by admin </p>
     </li>
 </ul>
